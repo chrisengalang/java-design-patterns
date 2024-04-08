@@ -9,3 +9,6 @@ So I came up with my own using real world examples. I hope these come useful to 
 
 ### 2. Builder
 **Scenario**: A customer would like to order a meal from a fast food chain and would have multiple ways to complete his/her meal.
+
+### 3. Prototype
+**Scenario**: Using a spreadsheet application, a user can duplicate the contents of a cell to another.

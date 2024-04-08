@@ -1,7 +1,6 @@
 package creational.abstractfactory.factory;
 
 import creational.abstractfactory.interfaces.PaymentGateway;
-import creational.abstractfactory.interfaces.TraditionalPayment;
 import creational.abstractfactory.payment.MastercardPayment;
 import creational.abstractfactory.payment.VisaPayment;
 

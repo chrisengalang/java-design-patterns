@@ -12,3 +12,6 @@ So I came up with my own using real world examples. I hope these come useful to 
 
 ### 3. Prototype
 **Scenario**: Using a spreadsheet application, a user can duplicate the contents of a cell to another.
+
+### 4. Singleton
+**Scenario**: Creating a single instance of a database connection to make sure connection pool is not used up.
